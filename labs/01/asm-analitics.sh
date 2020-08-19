@@ -1,5 +1,1 @@
-#!/usr/bin/bash
-
-echo 'hi, this is done :)'
-
-echo 'mistake'
+python3 analyzer.py
